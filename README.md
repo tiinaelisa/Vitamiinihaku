@@ -5,12 +5,12 @@ An app for searching for descriptions of vitamins on Fineli API with search crit
 and then have the descriptions received via inputted email.
 
 
-<b> Technologies used: 
+<b>Technologies used:</b> 
 
 Python, HTML, JavaScript, AWS SES & Lambda & Cloudformation, serverless
 
 
-<b> How it works:
+<b>How it works:</b>
 
 The user gives their email address and a search criterium (one word) and submits the form. The user is then notified whether 
 the action was successful by letting them know they'll be receiving the results via email, or whether an error occurred
